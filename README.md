@@ -1,3 +1,9 @@
+This repo is forked from MaximeWack/tidyflow; the original README is below. This way of structuring projects could be useful for us.   -Adam
+
+
+
+
+
 # tidyflow: a workflow that fits the tidyverse
 
 Tidyflow is *not* a package, but a project skeleton that you can clone/fork to start your own projects.
